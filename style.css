@@ -4,6 +4,6 @@
         
         body {
             background-color: rgb(4,38,36);
-                background-image: url("mybackground.jpg");
+                background-image: url(mybackground.jpg);
         }
            
